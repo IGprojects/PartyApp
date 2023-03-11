@@ -1,7 +1,12 @@
-# PartyApp
+# PartyApp · Aplicación de Chat
+
 Aplicación de chat para disfrutar de tus gustos de música favorita mientras chateas con tus amigos.
 
-L'aplicación esta hecha mediante Android Studio con un backend en Java, base de datos con Mysql y por ultimo la conexion con la base de datos mediante Php.
+## Tecnologías Usadas
+  - JAVA
+  - PHP
+  - MYSQL
+  - ANDROID STUDIO IDE
 
 ### Log In y Registro de usuarios:
 ![Image text](https://github.com/IGprojects/PartyApp/blob/main/Assets/captura1.png)
